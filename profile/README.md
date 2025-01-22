@@ -1,6 +1,6 @@
 # GrabbeAI: A School's Leap into the Future of AI 🚀🎓
 
-Welcome to the official documentation of **GrabbeAI**, the first AI model developed specifically for a school! GrabbeAI is a groundbreaking project implemented at the **Christian-Dietrich-Grabbe-Gymnasium (GGY)** in Detmold, Germany. Its purpose is to revolutionize the way information is accessed and communication is handled for students, teachers, and parents. Fully integrated into the school’s homepage, GrabbeAI serves as a digital assistant for a wide range of tasks, making school life simpler, smarter, and more connected. 
+Welcome to the official documentation of **GrabbeAI**, the first AI model developed specifically for a school! GrabbeAI is a groundbreaking project implemented at the **Christian-Dietrich-Grabbe-Gymnasium (GGY)** in Detmold, Germany. Its purpose is to revolutionize the way information is accessed and communication is handled for students, teachers, and parents. Fully integrated into the school’s homepage, GrabbeAI serves as a digital assistant for a wide range of tasks, making school life simpler, smarter, and more connected. You can use GrabbeAI directly on it's [own web-app](https://app.grabbe.site) or on the [Grabbe-Gymnasium's homepage](http://www.grabbe-gymnasium.de/#grabbeAI)!
 
 ---
 
