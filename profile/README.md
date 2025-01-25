@@ -204,8 +204,8 @@ Special thanks to the entire Grabbe-Gymnasium community for their support and in
 ---
 
 ## References 📚
-- **Finn Busse**: Primary developer and visionary.
-- **Maximilian von Beck**: Lead backend engineer.
+- **Finn Busse**: Visionary and Dataset creator and Designer.
+- **Maximilian von Beck**: Primary developer and Lead Server Administrator.
 
 ---
 
