@@ -204,8 +204,8 @@ Special thanks to the entire Grabbe-Gymnasium community for their support and in
 ---
 
 ## References 📚
-- **Finn Busse**: Visionary and Dataset creator and Designer.
-- **Maximilian von Beck**: Primary developer and Lead Server Administrator.
+- **Finn Busse**: Co-Developer, Fine-Tuning, Dataset creator and Designer
+- **Maximilian von Beck**: Co-Developer for the backend API
 
 ---
 
